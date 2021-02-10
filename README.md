@@ -1,1 +1,1 @@
-# class-repository
+# Set of Python Exercises
