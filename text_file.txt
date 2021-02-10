@@ -1,0 +1,21 @@
+Several debuggers for Python are described below, and the built-in function breakpoint() allows you to drop into any of them.
+
+The pdb module is a simple but adequate console-mode debugger for Python. It is part of the standard Python library, and is documented in the Library Reference Manual. You can also write your own debugger by using the code for pdb as an example.
+
+The IDLE interactive development environment, which is part of the standard Python distribution (normally available as Tools/scripts/idle), includes a graphical debugger.
+
+PythonWin is a Python IDE that includes a GUI debugger based on pdb. The Pythonwin debugger colors breakpoints and has quite a few cool features such as debugging non-Pythonwin programs. Pythonwin is available as part of the Python for Windows Extensions project and as a part of the ActivePython distribution (see https://www.activestate.com/activepython).
+
+Eric is an IDE built on PyQt and the Scintilla editing component.
+
+Pydb is a version of the standard Python debugger pdb, modified for use with DDD (Data Display Debugger), a popular graphical debugger front end. Pydb can be found at http://bashdb.sourceforge.net/pydb/ and DDD can be found at https://www.gnu.org/software/ddd.
+
+There are a number of commercial Python IDEs that include graphical debuggers. They include:
+
+    Wing IDE (https://wingware.com/)
+
+    Komodo IDE (https://komodoide.com/)
+
+    PyCharm (https://www.jetbrains.com/pycharm/)
+
+
