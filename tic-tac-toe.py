@@ -1,7 +1,7 @@
 """ Tic Tac Toe impplementation.
     - Computer uses random moves.
 
-Requires: Pyrhon3
+Requires: Python3
 
 Usage:
 
@@ -107,7 +107,7 @@ class TicTacToe():
     def determine_winner(self):
         """
         Determine who won:
-        - if stil avail plays - return False
+        - if still avail plays - return False
         - if no avail plays - return None
 
         :return True if game over
